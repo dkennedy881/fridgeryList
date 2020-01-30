@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+//components
+import NavBar from "./components/Nav/NavBar";
+import FridgeModContainer from "./components/FridgeMods/FridgeModContainer";
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isLoggedIn: true,
+      userObj:{
+        name:"DeMarcus Kennedy"
+      }
+    };
+  }
+  render() {
+    return (
+      <div className="App">
+        <NavBar isLoggedIn={this.state.isLoggedIn} userObj={this.state.userObj} ></NavBar>
+        <FridgeModContainer></FridgeModContainer>
+      </div>
+    );
+  }
 }
 
 export default App;
