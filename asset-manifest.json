@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dkennedy881.github.io/fridgeryList/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/dkennedy881.github.io/fridgeryList/static/js/main.4e9f1431.chunk.js",
+    "main.js.map": "/dkennedy881.github.io/fridgeryList/static/js/main.4e9f1431.chunk.js.map",
+    "runtime-main.js": "/dkennedy881.github.io/fridgeryList/static/js/runtime-main.4cbe0272.js",
+    "runtime-main.js.map": "/dkennedy881.github.io/fridgeryList/static/js/runtime-main.4cbe0272.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/dkennedy881.github.io/fridgeryList/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.8685c8e3.chunk.js": "/dkennedy881.github.io/fridgeryList/static/js/2.8685c8e3.chunk.js",
+    "static/js/2.8685c8e3.chunk.js.map": "/dkennedy881.github.io/fridgeryList/static/js/2.8685c8e3.chunk.js.map",
+    "index.html": "/dkennedy881.github.io/fridgeryList/index.html",
+    "precache-manifest.17dfbffd9013a054e4d12ad9ed7a6422.js": "/dkennedy881.github.io/fridgeryList/precache-manifest.17dfbffd9013a054e4d12ad9ed7a6422.js",
+    "service-worker.js": "/dkennedy881.github.io/fridgeryList/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/dkennedy881.github.io/fridgeryList/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/dkennedy881.github.io/fridgeryList/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.8685c8e3.chunk.js.LICENSE": "/dkennedy881.github.io/fridgeryList/static/js/2.8685c8e3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cbe0272.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.8685c8e3.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.4e9f1431.chunk.js"
+  ]
+}
